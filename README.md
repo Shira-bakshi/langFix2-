@@ -1,4 +1,4 @@
-# LangFix 🌐
+# LangFix 
 
 **Fix text typed in the wrong keyboard language — Hebrew ↔ English.**
 
