@@ -1,0 +1,5 @@
+LangFix End-User License Agreement (EULA)
+
+Replace this text with your actual license terms. This placeholder EULA is shipped for installer layout and testing purposes.
+
+By installing LangFix you agree to the terms stated here.
